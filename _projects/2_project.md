@@ -25,6 +25,10 @@ width="50%"
 
 ## Media Management
 
+<div class="row">
+
+<div class="col-md-8">
+
 As a Media Manager, I worked on both the creative and organizational sides of the event. I helped coordinate the media team, plan tasks, and keep the production process organized leading up to the event.
 
 We divided responsibilities and tracked our progress using **Google Sheets**, which helped us coordinate deadlines, assign tasks, and make sure different parts of the media production were completed on time.
@@ -41,12 +45,19 @@ I also worked on the event's **social media content and visual communication**, 
 - Coordination of media deliverables
 - Managing production deadlines
 
+</div>
+
+<div class="col-md-4">
+
 {% include figure.liquid
 path="assets/img/media-team-meeting.jpg"
 title="Media team meeting"
 class="img-fluid rounded z-depth-1"
-width="33%"
 %}
+
+</div>
+
+</div>
 
 ## Design & Creative Production
 
@@ -124,71 +135,81 @@ class="img-fluid rounded z-depth-1"
 
 ## Curating: “Civilized City”
 
+<div class="row">
+
+<div class="col-md-8">
+
 Alongside my role in media management, I was also part of the **Curating Team**. The theme of our TEDx event was **“Civilized City”**, and our team worked with eight speakers to develop talks that connected their individual experiences and ideas to this broader theme.
 
 I was directly involved in the curating process for **three of the speakers**. My role was to help identify the central idea behind each talk, develop the narrative, and shape their stories into engaging TED-style talks.
 
 The process involved listening carefully to each speaker's ideas, identifying the most meaningful stories and experiences, and helping structure them into a clear narrative. We also considered how each talk could connect to the theme while remaining authentic to the speaker's own perspective.
 
+</div>
+
+<div class="col-md-4">
+
 {% include figure.liquid
 path="assets/img/curating-team.jpg"
 title="Curating team"
 class="img-fluid rounded z-depth-1"
-width="33%"
 %}
+
+</div>
+
+</div>
 
 ## Three Speakers, Three Perspectives
 
-<div class="row">
-
-<div class="col-md-4">
-
 ### Hamidreza Pejman
 
-I worked with Hamidreza Pejman to explore and organize his ideas and experiences across architecture, art, and filmmaking, helping shape them into a focused narrative for the TEDx stage.
+I worked with Hamidreza Pejman to explore and organize his ideas and experiences across **architecture, art, and filmmaking**, helping shape them into a focused narrative for the TEDx stage.
 
 {% include figure.liquid
 path="assets/img/curating-pejman.jpg"
 title="Curating meeting with Hamidreza Pejman"
 class="img-fluid rounded z-depth-1"
+width="33%"
 %}
-
-</div>
-
-<div class="col-md-4">
 
 ### Pirouz Hanachi
 
-Working with Pirouz Hanachi introduced a strong connection to the idea of the city itself. Through the curating process, I helped develop his ideas into a story that could communicate broader questions about cities, people, and urban life.
+Working with Pirouz Hanachi introduced a strong connection to the idea of the city itself. Through the curating process, I helped develop his ideas into a story that could communicate broader questions about **cities, people, and urban life**.
 
 {% include figure.liquid
 path="assets/img/curating-hanachi.jpg"
 title="Curating meeting with Pirouz Hanachi"
 class="img-fluid rounded z-depth-1"
+width="33%"
 %}
-
-</div>
-
-<div class="col-md-4">
 
 ### Mojtaba Jabbari
 
 With Mojtaba Jabbari, the challenge was to translate personal experiences from professional sport into a story that could connect with a wider audience and contribute to the theme of **“Civilized City.”**
 
-</div>
-
-</div>
-
 ## The Event
 
+<div class="row">
+
+<div class="col-md-8">
+
 After months of planning, designing, curating, and coordinating, the event brought all of these different parts together.
+
+The event was the final result of months of collaboration between the media, curating, production, and organizing teams. Seeing the ideas and materials we had developed come together in a live event was one of the most rewarding parts of the experience.
+
+</div>
+
+<div class="col-md-4">
 
 {% include figure.liquid
 path="assets/img/event-day.jpg"
 title="TEDxUT event day"
 class="img-fluid rounded z-depth-1"
-width="33%"
 %}
+
+</div>
+
+</div>
 
 ## What I Took From the Experience
 
