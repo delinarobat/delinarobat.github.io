@@ -9,11 +9,12 @@ related_publications: false
 ---
 
 ## Media Manager & Curating Team Member
+
 *October 2024*
 
 In October 2024, I joined the TEDxUT team as a **Media Manager and member of the Curating Team**. The experience brought together two areas I particularly enjoy: creative production and collaborative problem-solving.
 
-As part of the media team, I was responsible for coordinating the production and delivery of visual content for the event, while also helping shape how TEDxUT communicated with its audience. At the same time, as a member of the curating team, I worked directly with speakers to develop their ideas and transform them into engaging, coherent TED-style talks.
+As part of the media team, I was responsible for coordinating the production and delivery of visual content for the event, while also helping shape how TEDxUT communicated with its audience. At the same time, as a member of the Curating Team, I worked directly with speakers to develop their ideas and transform them into engaging, coherent TED-style talks.
 
 {% include figure.liquid
 path="assets/img/tedxut-cover.jpg"
@@ -40,7 +41,7 @@ I also worked on the event's **social media content and visual communication**, 
 - Managing production deadlines
 
 {% include figure.liquid
-path="assets/img/media team meeting.jpg"
+path="assets/img/media-team-meeting.jpg"
 title="Media team meeting"
 class="img-fluid rounded z-depth-1"
 %}
@@ -52,20 +53,50 @@ I used **Figma** to design and organize a range of visual materials for the even
 Beyond social media, the media team was responsible for producing and coordinating a wide range of event materials, including **certificates, presentations, cards, banners, and other visual assets**.
 
 {% include figure.liquid
-path="assets/img/media managing process (1).png"
-title="Media management and design process"
-class="img-fluid rounded z-depth-1"
-%}
-
-{% include figure.liquid
-path="assets/img/media managing process (2).png"
+path="assets/img/media-management-01.png"
 title="Media management process"
 class="img-fluid rounded z-depth-1"
 %}
 
 {% include figure.liquid
-path="assets/img/media managing process (3).png"
+path="assets/img/media-management-02.png"
+title="Media management process"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/media-management-03.png"
 title="Visual communication process"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/media-management-04.png"
+title="Media design process"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/media-management-05.png"
+title="Media design and planning"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/media-management-06.png"
+title="Media planning process"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/media-management-07.png"
+title="Social media management"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/media-management-08.png"
+title="Event media materials"
 class="img-fluid rounded z-depth-1"
 %}
 
@@ -78,7 +109,7 @@ I was directly involved in the curating process for **three of the speakers**. M
 The process involved listening carefully to each speaker's ideas, identifying the most meaningful stories and experiences, and helping structure them into a clear narrative. We also considered how each talk could connect to the theme while remaining authentic to the speaker's own perspective.
 
 {% include figure.liquid
-path="assets/img/curating team.jpg"
+path="assets/img/curating-team.jpg"
 title="Curating team"
 class="img-fluid rounded z-depth-1"
 %}
@@ -90,7 +121,7 @@ class="img-fluid rounded z-depth-1"
 I worked with Hamidreza Pejman to explore and organize his ideas and experiences across architecture, art, and filmmaking, helping shape them into a focused narrative for the TEDx stage.
 
 {% include figure.liquid
-path="assets/img/curating meeting with mr pejman.jpg"
+path="assets/img/curating-pejman.jpg"
 title="Curating meeting with Hamidreza Pejman"
 class="img-fluid rounded z-depth-1"
 %}
@@ -100,28 +131,40 @@ class="img-fluid rounded z-depth-1"
 Working with Pirouz Hanachi introduced a strong connection to the idea of the city itself. Through the curating process, I helped develop his ideas into a story that could communicate broader questions about cities, people, and urban life.
 
 {% include figure.liquid
-path="assets/img/curating meeting with mr hanachi.jpg"
+path="assets/img/curating-hanachi.jpg"
 title="Curating meeting with Pirouz Hanachi"
 class="img-fluid rounded z-depth-1"
 %}
 
 ### Mojtaba Jabbari
 
-With Mojtaba Jabbari, the challenge was to translate personal experiences from professional sport into a story that could connect with a wider audience and contribute to the theme of “Civilized City.”
+With Mojtaba Jabbari, the challenge was to translate personal experiences from professional sport into a story that could connect with a wider audience and contribute to the theme of **“Civilized City.”**
 
 ## The Event
 
 After months of planning, designing, curating, and coordinating, the event brought all of these different parts together.
 
 {% include figure.liquid
-path="assets/img/the event day.jpg"
+path="assets/img/event-day.jpg"
 title="TEDxUT event day"
 class="img-fluid rounded z-depth-1"
 %}
 
 {% include figure.liquid
-path="assets/img/the day of event.jpg"
-title="TEDxUT"
+path="assets/img/event-day-02.jpg"
+title="TEDxUT event day"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/event-with-pejman.jpg"
+title="Event day with Hamidreza Pejman"
+class="img-fluid rounded z-depth-1"
+%}
+
+{% include figure.liquid
+path="assets/img/tedxut-team.jpg"
+title="TEDxUT team"
 class="img-fluid rounded z-depth-1"
 %}
 
