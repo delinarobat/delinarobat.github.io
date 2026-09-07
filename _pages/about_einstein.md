@@ -1,4 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Civil Engineering graduate from the University of Tehran, interested in the intersection of BIM, construction management, artificial intelligence, and sustainable digital construction.
+My work focuses on how digital technologies can improve the way we design, plan, construct, and manage the built environment. I have worked with BIM workflows, including Revit, Navisworks, Dynamo, Primavera, and Civil 3D, and have explored applications of AI, digital twins, GIS, and immersive technologies in the AEC industry.
+Alongside my academic work, I have been involved in research, teaching, and interdisciplinary projects. As a BIM teaching assistant, I have worked with students on BIM-based modeling, coordination, 4D simulation, cost estimation, and project planning. I have also gained experience in virtual reality through the CGC Lab at the University of Tehran.
+Currently, I am developing my research interests around BIM–AI integration, sustainability, digital twins, and data-driven construction management, while preparing for graduate studies in Construction Management and related fields.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
