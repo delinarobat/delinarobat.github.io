@@ -199,30 +199,6 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
-{% include figure.liquid
-path="assets/img/event-day-02.jpg"
-title="TEDxUT event day"
-class="img-fluid rounded z-depth-1"
-%}
-</div>
-
-<div class="col-md-3">
-{% include figure.liquid
-path="assets/img/event-with-pejman.jpg"
-title="Event day with Hamidreza Pejman"
-class="img-fluid rounded z-depth-1"
-%}
-</div>
-
-<div class="col-md-3">
-{% include figure.liquid
-path="assets/img/tedxut-team.jpg"
-title="TEDxUT team"
-class="img-fluid rounded z-depth-1"
-%}
-</div>
-
 </div>
 
 ## What I Took From the Experience
