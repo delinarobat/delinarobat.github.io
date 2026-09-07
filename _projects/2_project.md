@@ -20,6 +20,7 @@ As part of the media team, I was responsible for coordinating the production and
 path="assets/img/tedxut-cover.jpg"
 title="TEDxUT"
 class="img-fluid rounded z-depth-1"
+width="50%"
 %}
 
 ## Media Management
@@ -44,6 +45,7 @@ I also worked on the event's **social media content and visual communication**, 
 path="assets/img/media-team-meeting.jpg"
 title="Media team meeting"
 class="img-fluid rounded z-depth-1"
+width="33%"
 %}
 
 ## Design & Creative Production
@@ -52,53 +54,73 @@ I used **Figma** to design and organize a range of visual materials for the even
 
 Beyond social media, the media team was responsible for producing and coordinating a wide range of event materials, including **certificates, presentations, cards, banners, and other visual assets**.
 
+<div class="row">
+
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-01.png"
 title="Media management process"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-02.png"
 title="Media management process"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-03.png"
 title="Visual communication process"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-04.png"
 title="Media design process"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-05.png"
 title="Media design and planning"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-06.png"
 title="Media planning process"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-07.png"
 title="Social media management"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/media-management-08.png"
 title="Event media materials"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
+
+</div>
 
 ## Curating: “Civilized City”
 
@@ -112,9 +134,14 @@ The process involved listening carefully to each speaker's ideas, identifying th
 path="assets/img/curating-team.jpg"
 title="Curating team"
 class="img-fluid rounded z-depth-1"
+width="33%"
 %}
 
 ## Three Speakers, Three Perspectives
+
+<div class="row">
+
+<div class="col-md-4">
 
 ### Hamidreza Pejman
 
@@ -126,6 +153,10 @@ title="Curating meeting with Hamidreza Pejman"
 class="img-fluid rounded z-depth-1"
 %}
 
+</div>
+
+<div class="col-md-4">
+
 ### Pirouz Hanachi
 
 Working with Pirouz Hanachi introduced a strong connection to the idea of the city itself. Through the curating process, I helped develop his ideas into a story that could communicate broader questions about cities, people, and urban life.
@@ -136,37 +167,63 @@ title="Curating meeting with Pirouz Hanachi"
 class="img-fluid rounded z-depth-1"
 %}
 
+</div>
+
+<div class="col-md-4">
+
 ### Mojtaba Jabbari
 
 With Mojtaba Jabbari, the challenge was to translate personal experiences from professional sport into a story that could connect with a wider audience and contribute to the theme of **“Civilized City.”**
+
+{% include figure.liquid
+path="assets/img/event-with-pejman.jpg"
+title="TEDxUT event"
+class="img-fluid rounded z-depth-1"
+%}
+
+</div>
+
+</div>
 
 ## The Event
 
 After months of planning, designing, curating, and coordinating, the event brought all of these different parts together.
 
+<div class="row">
+
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/event-day.jpg"
 title="TEDxUT event day"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/event-day-02.jpg"
 title="TEDxUT event day"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/event-with-pejman.jpg"
 title="Event day with Hamidreza Pejman"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
 
+<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/tedxut-team.jpg"
 title="TEDxUT team"
 class="img-fluid rounded z-depth-1"
 %}
+</div>
+
+</div>
 
 ## What I Took From the Experience
 
