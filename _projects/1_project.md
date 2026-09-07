@@ -7,7 +7,7 @@ importance: 1
 category: work
 related_publications: false
 ---
-
+![TEDxSUT](../assets/img/tedxsut_cover.jpg)
 In 2023 , I had the incredible opportunity to join the TEDxSUT team at Sharif University of Technology as an official event photographer. I was invited to capture the moments that made the event come alive — from the energy backstage to the connections happening in the audience.
 
 Being part of the team meant far more than just taking pictures. It gave me the chance to talk with people from all kinds of backgrounds, to work closely with a team that pulled together under pressure, and to build real connections along the way. I had the privilege of communicating directly with significant speakers from a wide range of fields, hearing their perspectives up close before they ever stepped on stage. Those conversations, as much as the photos themselves, are what made the experience unforgettable.
