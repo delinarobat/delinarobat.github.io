@@ -3,8 +3,6 @@ layout: page
 title: TEDxSUT
 description: capturing moments as an official photographer
 img: assets/img/tedxsut_cover.jpg
-        {% include figure.liquid loading="eager" path="assets/img/tedxsut_cover.jpg" title="TEDxSUT certificate" class="img-fluid rounded z-depth-1" %}
-
 importance: 1
 category: work
 related_publications: false
