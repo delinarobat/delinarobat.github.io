@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> +98 9354441855 </p>
     <p> Tehran , Iran </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
