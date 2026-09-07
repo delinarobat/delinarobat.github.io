@@ -175,12 +175,6 @@ class="img-fluid rounded z-depth-1"
 
 With Mojtaba Jabbari, the challenge was to translate personal experiences from professional sport into a story that could connect with a wider audience and contribute to the theme of **“Civilized City.”**
 
-{% include figure.liquid
-path="assets/img/event-with-pejman.jpg"
-title="TEDxUT event"
-class="img-fluid rounded z-depth-1"
-%}
-
 </div>
 
 </div>
@@ -189,17 +183,12 @@ class="img-fluid rounded z-depth-1"
 
 After months of planning, designing, curating, and coordinating, the event brought all of these different parts together.
 
-<div class="row">
-
-<div class="col-md-3">
 {% include figure.liquid
 path="assets/img/event-day.jpg"
 title="TEDxUT event day"
 class="img-fluid rounded z-depth-1"
+width="33%"
 %}
-</div>
-
-</div>
 
 ## What I Took From the Experience
 
