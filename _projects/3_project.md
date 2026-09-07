@@ -139,7 +139,7 @@ For me, the experience demonstrated that **good storytelling is not only about s
 </div>
 
 {% include figure.liquid
-path="assets/img/event-day.jpg"
+path="assets/img/event-dayy.jpg"
 title="TEDxUT event day"
 class="img-fluid rounded z-depth-1"
 width="60%"
