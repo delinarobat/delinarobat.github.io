@@ -46,14 +46,17 @@ Iranian turquoise was selected as the primary color, referencing Iranian visual 
 The detailed **page design, typography, and editorial layouts were developed by Velgard Studio**, the graphic design team working with the publication. Together, the conceptual identity and its visual execution created a consistent language across the magazine.
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Issue 01 cover.jpg" title="Issue 01 cover design" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Issue 02 cover.jpg" title="Issue 02 cover design" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Special Issue 01 cover.jpg" title="Special Issue 01 cover design" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Special Issue 02 cover.jpg" title="Special Issue 02 cover design" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
