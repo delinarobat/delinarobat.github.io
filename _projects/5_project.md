@@ -27,16 +27,6 @@ The concept, goals, name, editorial structure, and overall direction of the publ
 
 Chamroosh received its official publication license in Fall 2024.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/event photographs.jpg" title="Chamroosh at the Faculty of Engineering" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-    Building a publication around the academic and student community of the University of Tehran's Faculty of Engineering.
-</div>
-
 ## Finding the name
 
 The name **Chamroosh** was inspired by a mythical bird in Iranian mythology associated with Mount Damavand.
@@ -91,19 +81,6 @@ Together, these sections created a publication that could move between history a
 
 ## Four editions, four conversations
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Special Issue 02 cover.jpg" title="Special Issue 02 cover" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Special Issue 02 cover pages.png" title="Special Issue 02 interior pages" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="caption">
-    Four editions explored civil engineering through history, innovation, professional experience, student perspectives, and critical discussion.
-</div>
-
 ## Issue 01 — Abad
 
 The first issue established Chamroosh's editorial direction by bringing together historical stories, emerging technologies, student perspectives, and field research.
@@ -154,6 +131,17 @@ When we noticed recurring criticism from students, we developed a questionnaire 
 
 The result became a dedicated critical section within the special issue, turning event coverage into a platform for reflection and discussion.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/event photographs.jpg" title="Chamroosh at the Faculty of Engineering" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Building a publication around the academic and student community of the University of Tehran's Faculty of Engineering.
+</div>
+
+
 ## Issue 02 — Boom
 
 The second issue expanded the publication's scope toward engineering heritage, contemporary construction, and professional experience.
@@ -192,6 +180,19 @@ The second special issue shifted the focus from engineering practice to the educ
 The project began with a simple question:
 
 **What is missing from the way we teach civil engineering?**
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Special Issue 02 cover.jpg" title="Special Issue 02 cover" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Special Issue 02 cover pages.png" title="Special Issue 02 interior pages" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Four editions explored civil engineering through history, innovation, professional experience, student perspectives, and critical discussion.
+</div>
 
 We interviewed students from different cohorts, investigated educational practices at leading universities, and worked with a faculty member to develop practical recommendations.
 
