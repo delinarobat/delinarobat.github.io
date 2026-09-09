@@ -1,53 +1,33 @@
 {
   "basics": {
     "name": "Delina Sheikhrobat",
-    "label": "Civil Engineer | Urban Design, BIM, Sustainability & Technology-Driven Construction Innovation",
+    "label": "Civil Engineering Graduate — BIM, Sustainability & Automation",
     "email": "delinarobat@gmail.com",
-    "phone": "+98 935 444 1855",
-    "url": "https://delinarobat.github.io",
-    "summary": "Civil engineering graduate from the University of Tehran with a research focus on integrating Building Information Modeling (BIM) with green building and sustainability practices. Particularly interested in leveraging automation tools such as Dynamo, alongside emerging technologies like AI, to streamline design workflows and drive technology-led innovation in construction management. Combines hands-on BIM teaching experience, VR-based research work, and active leadership in academic and cultural student initiatives.",
+    "summary": "I am a Civil Engineering graduate from the University of Tehran, interested in the integration of Building Information Modeling (BIM), sustainability, automation, and emerging technologies in construction management. My interests focus on using digital tools such as Dynamo and AI to improve design workflows, support sustainable building practices, and explore technology-driven innovation in the construction industry.",
+    "location": {
+      "city": "Tehran",
+      "countryCode": "IR"
+    },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Delina Sheikhrobat",
+        "username": "delina-sheikhrobat",
         "url": "https://www.linkedin.com/in/delina-sheikhrobat/"
       }
     ]
   },
-
-  "education": [
-    {
-      "institution": "University of Tehran",
-      "area": "Civil Engineering",
-      "studyType": "Bachelor of Civil Engineering",
-      "startDate": "2021-09-01",
-      "endDate": "2026-01-01",
-      "score": "16.22 / 20",
-      "summary": "Undergraduate studies in civil engineering with a growing specialization in Building Information Modeling (BIM), sustainable design, and the application of digital tools to construction management workflows."
-    }
-  ],
-
-  "publications": [
-    {
-      "name": "Evolution of BIM-LEED Integration: A Systematic Literature Review of Their Relationship, Applications, and Technology-Driven Changes Across LEED Versions",
-      "publisher": "Under Review",
-      "releaseDate": "",
-      "authors": "Sheikhrobat, D., Faghihi, S.V.",
-      "summary": "A systematic literature review tracing how Building Information Modeling (BIM) and the LEED green building certification framework have become increasingly integrated over time, examining how successive LEED versions have driven and responded to technology-led changes in sustainable design and construction practice."
-    }
-  ],
-
   "work": [
     {
       "name": "University of Tehran",
-      "position": "Teaching Assistant — Building Information Modeling (Instructor: Dr. S. Vahid Faghihi)",
+      "position": "Teaching Assistant — Building Information Modeling",
       "startDate": "2025-12-01",
       "endDate": "2026-08-01",
-      "summary": "Supported undergraduate instruction in a core BIM course spanning the 3D, 4D, and 5D dimensions of Building Information Modeling.",
       "highlights": [
-        "Mentored undergraduate students through core BIM workflows across the 3D (modeling), 4D (scheduling and animation), and 5D (cost estimation) dimensions of BIM.",
-        "Supported students in Autodesk Revit for parametric 3D modeling and in Autodesk Navisworks for model coordination, clash detection, and 4D construction sequencing and animation.",
-        "Guided students in Microsoft Project to develop construction schedules and link them to BIM models for 4D/5D workflows, including quantity take-off and cost estimation."
+        "Mentored undergraduate students through core BIM workflows across the 3D modeling, 4D scheduling/animation, and 5D cost estimation dimensions.",
+        "Supported students in Autodesk Revit for parametric 3D modeling.",
+        "Guided students in Autodesk Navisworks for model coordination, clash detection, and 4D construction sequencing.",
+        "Guided students in Microsoft Project to develop construction schedules and connect them with BIM models.",
+        "Supported students in quantity take-off and cost estimation workflows."
       ]
     },
     {
@@ -55,53 +35,52 @@
       "position": "Research Assistant (Supervisor: Dr. N. Khademi)",
       "startDate": "2024-04-01",
       "endDate": "2024-12-01",
-      "summary": "Developed immersive VR simulations to study road-user behavior for transportation research.",
       "highlights": [
-        "Designed and developed immersive virtual-reality environments in Unity to support transportation research studies, translating real-world road and traffic scenarios into interactive 3D simulations.",
-        "Integrated VR environments with head-mounted displays to run controlled experiments examining participant (student) behavior and decision-making in simulated traffic scenarios.",
-        "Collaborated with faculty researchers to define experimental scenarios and iterate on environment design based on pilot testing feedback."
+        "Designed and developed immersive virtual-reality environments in Unity for transportation research.",
+        "Translated real-world road and traffic scenarios into interactive 3D simulations.",
+        "Integrated VR environments with head-mounted displays to conduct controlled experiments.",
+        "Studied participant behavior and decision-making in simulated traffic scenarios.",
+        "Collaborated with faculty researchers to define experimental scenarios and improve environments based on pilot testing feedback."
       ]
-    }
-  ],
-
-  "volunteer": [
+    },
     {
-      "organization": "Civil Engineering Scientific Student Association, University of Tehran",
+      "name": "Civil Engineering Scientific Student Association, University of Tehran",
       "position": "Board Member",
       "startDate": "2024-09-01",
-      "endDate": "2026-01-01",
-      "summary": "Contributed to the leadership and organization of academic and extracurricular initiatives for civil engineering students at the University of Tehran."
+      "endDate": "2026-01-01"
     },
     {
-      "organization": "Chamroosh — Scientific & Cultural Journal of the Civil Engineering Student Association",
-      "position": "Editor-in-Chief & Founder",
-      "summary": "Founded and led the editorial direction of the association's scientific and cultural journal, overseeing content strategy, writing, and publication."
+      "name": "Chamroosh — Scientific & Cultural Journal of the Civil Engineering Student Association",
+      "position": "Editor-in-Chief & Founder"
     },
     {
-      "organization": "TEDxKish",
+      "name": "TEDxKish",
       "position": "Co-Organizer",
       "startDate": "2025-10-01",
-      "endDate": "2025-10-01",
-      "summary": "Co-organized the TEDxKish event, contributing to event planning and execution."
-    },
-    {
-      "organization": "TEDxUT",
-      "position": "Curator / Head of Media Team",
-      "summary": "Served as curator and led the media team for TEDxUT across two events (May 2025 and October 2024), overseeing content curation and media production."
-    },
-    {
-      "organization": "TEDxSUT, Sharif University of Technology",
-      "position": "Photographer",
-      "startDate": "2023-12-01",
-      "endDate": "2023-12-01",
-      "summary": "Served as event photographer for TEDxSUT."
+      "endDate": "2025-10-01"
     }
   ],
-
+  "education": [
+    {
+      "institution": "University of Tehran",
+      "area": "Civil Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2021-09-01",
+      "endDate": "2026-01-01",
+      "score": "16.22 / 20"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Evolution of BIM-LEED Integration: A Systematic Literature Review of Their Relationship, Applications, and Technology-Driven Changes Across LEED Versions",
+      "publisher": "Under Review",
+      "summary": "Sheikhrobat, D., Faghihi, S. V."
+    }
+  ],
   "skills": [
     {
       "name": "BIM & Design",
-      "keywords": ["Autodesk Revit (Advanced)", "Dynamo for Revit", "Autodesk Navisworks", "AutoCAD", "CityEngine", "Unity (VR environment development)"]
+      "keywords": ["Autodesk Revit (Advanced)", "Dynamo for Revit", "Autodesk Navisworks", "AutoCAD", "CityEngine", "Unity"]
     },
     {
       "name": "Data & Modelling",
@@ -114,21 +93,68 @@
     {
       "name": "Media & Design",
       "keywords": ["Figma (Graphic Design & UI/UX)", "Adobe Premiere (Video Editing)"]
-    },
-    {
-      "name": "Soft Skills",
-      "keywords": ["Problem-solving", "Works independently and collaboratively", "Proactive learner"]
     }
   ],
-
   "languages": [
     {
-      "language": "Persian",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "C1 — TOEFL iBT 110/120"
     },
     {
-      "language": "English",
-      "fluency": "C1 — TOEFL iBT 110/120 (Reading: B2, Listening: C2, Writing: C1, Speaking: C1)"
+      "language": "Persian",
+      "fluency": "Native"
     }
   ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Building Information Modeling (BIM)",
+        "BIM and sustainability integration",
+        "Green building",
+        "LEED",
+        "Construction management",
+        "Automation in construction",
+        "Dynamo and computational design",
+        "Artificial Intelligence in construction",
+        "Digital technologies and technology-driven innovation"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Introduction to Machine Learning",
+      "issuer": "Kaggle"
+    },
+    {
+      "name": "Feature Engineering",
+      "issuer": "Kaggle"
+    },
+    {
+      "name": "Introduction to the Internet of Things and Embedded Systems",
+      "issuer": "Coursera"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TEDxUT",
+      "description": "Curator / Head of Media Team",
+      "highlights": [
+        "Worked across media management, visual communication, team coordination, and speaker curation for TEDxUT."
+      ]
+    },
+    {
+      "name": "TEDxSUT — Sharif University of Technology",
+      "description": "Official Photographer",
+      "endDate": "2023-12-01",
+      "highlights": [
+        "Captured event photography and documented speakers, audience interactions, and the event atmosphere."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
 }
