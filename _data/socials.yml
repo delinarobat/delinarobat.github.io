@@ -11,3 +11,4 @@ whatsapp_number: +98 9354441855 # your WhatsApp number (full phone number in int
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   title: LinkedIn
   url: https://www.linkedin.com/in/delina-sheikhrobat/
+  logo: https://cdn-icons-png.flaticon.com/512/174/174857.png
