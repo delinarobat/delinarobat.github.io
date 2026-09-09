@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-# CV
-
 <div class="text-center mb-4">
   <a href="/assets/pdf/mycv.pdf" class="btn btn-primary">
     <i class="fas fa-file-pdf"></i> Download CV
@@ -18,41 +16,41 @@ nav_order: 5
 
 ## Contact Information
 
-<div class="card mt-3 mb-4">
-  <div class="card-body">
+<div class="card mt-3 mb-4" markdown="1">
+<div class="card-body" markdown="1">
 
-  <p><strong>Name</strong><br>
-  Delina Sheikhrobat</p>
+**Name**
+Delina Sheikhrobat
 
-  <p><strong>Email</strong><br>
-  <a href="mailto:delinarobat@gmail.com">delinarobat@gmail.com</a></p>
+**Email**
+[delinarobat@gmail.com](mailto:delinarobat@gmail.com)
 
-  <p><strong>LinkedIn</strong><br>
-  <a href="https://www.linkedin.com/in/delina-sheikhrobat/" target="_blank">Delina Sheikhrobat</a></p>
+**LinkedIn**
+[Delina Sheikhrobat](https://www.linkedin.com/in/delina-sheikhrobat/)
 
-  </div>
+</div>
 </div>
 
 ---
 
 ## Professional Summary
 
-<div class="card mt-3 mb-4">
-  <div class="card-body">
+<div class="card mt-3 mb-4" markdown="1">
+<div class="card-body" markdown="1">
 
 I am a Civil Engineering graduate from the University of Tehran, interested in the integration of **Building Information Modeling (BIM), sustainability, automation, and emerging technologies** in construction management.
 
 My interests focus on using digital tools such as **Dynamo and AI** to improve design workflows, support sustainable building practices, and explore technology-driven innovation in the construction industry.
 
-  </div>
+</div>
 </div>
 
 ---
 
 ## Education
 
-<div class="card mt-3 mb-4">
-  <div class="card-body">
+<div class="card mt-3 mb-4" markdown="1">
+<div class="card-body" markdown="1">
 
 ### Bachelor of Civil Engineering
 **University of Tehran**
@@ -60,7 +58,7 @@ September 2021 – January 2026
 
 **GPA:** 16.22 / 20
 
-  </div>
+</div>
 </div>
 
 ---
@@ -117,8 +115,8 @@ December 2023
 
 ## Publications
 
-<div class="card mt-3 mb-4">
-  <div class="card-body">
+<div class="card mt-3 mb-4" markdown="1">
+<div class="card-body" markdown="1">
 
 **Sheikhrobat, D., Faghihi, S. V.**
 
@@ -126,7 +124,7 @@ December 2023
 
 **Status:** Under Review
 
-  </div>
+</div>
 </div>
 
 ---
