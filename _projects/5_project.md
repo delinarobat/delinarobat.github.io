@@ -19,11 +19,11 @@ category: academic
 
 ## From an idea to a publication
 
-When I joined the Civil Engineering Scientific Association at the University of Tehran, I noticed a gap in the association's long history of student activities: it had not published a magazine for more than twelve years.
+When I joined the Civil Engineering Scientific Association at the University of Tehran, I noticed a gap in the association's long history of student activities: it had not published a magazine for more than twelve years. Together with my friend Mehdi, I saw an opportunity to create more than a conventional student magazine.
 
-I saw an opportunity to create more than a conventional student magazine. I wanted Chamroosh to become a platform where civil engineering could be discussed through different perspectives — connecting technical knowledge with history, culture, education, professional experience, and critical thinking.
+We wanted Chamroosh to become a platform where civil engineering could be discussed through different perspectives — connecting technical knowledge with history, culture, education, professional experience, and critical thinking.
 
-The concept, goals, name, editorial structure, and overall direction of the publication were developed by me from the beginning. I then worked with the editorial and design teams to turn the idea into a functioning publication.
+From the beginning, Mehdi and I initiated the project and worked together to bring the publication to life. I took the lead in developing its concept, goals, name, editorial structure, and overall direction, while working with the editorial and design teams to turn the idea into a functioning publication.
 
 Chamroosh received its official publication license in Fall 2024.
 
