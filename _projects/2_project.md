@@ -176,13 +176,6 @@ width="33%"
 
 Working with Pirouz Hanachi introduced a strong connection to the idea of the city itself. Through the curating process, I helped develop his ideas into a story that could communicate broader questions about **cities, people, and urban life**.
 
-{% include figure.liquid
-path="assets/img/curating-hanachi.jpg"
-title="Curating meeting with Pirouz Hanachi"
-class="img-fluid rounded z-depth-1"
-width="33%"
-%}
-
 ### Mojtaba Jabbari
 
 With Mojtaba Jabbari, the challenge was to translate personal experiences from professional sport into a story that could connect with a wider audience and contribute to the theme of **“Civilized City.”**
