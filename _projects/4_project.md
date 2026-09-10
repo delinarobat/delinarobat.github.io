@@ -59,7 +59,7 @@ One of the challenges was adapting available digital assets to local environment
         {% include figure.liquid path="assets/img/keshavarz blv.png" title="Keshavarz Boulevard environment in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Klana design in unity .png" title="Environment design in Unity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/klana design in unity " title="Environment design in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
