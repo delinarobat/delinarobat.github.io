@@ -67,7 +67,7 @@ Beyond social media, the media team was responsible for producing and coordinati
 
 <div class="row">
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-01.png"
 title="Media management process"
@@ -75,7 +75,7 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-02.png"
 title="Media management process"
@@ -83,7 +83,7 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-03.png"
 title="Visual communication process"
@@ -91,7 +91,7 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-04.png"
 title="Media design process"
@@ -99,7 +99,7 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-05.png"
 title="Media design and planning"
@@ -107,7 +107,7 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-06.png"
 title="Media planning process"
@@ -115,7 +115,7 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-07.png"
 title="Social media management"
@@ -123,7 +123,7 @@ class="img-fluid rounded z-depth-1"
 %}
 </div>
 
-<div class="col-md-3">
+<div class="col-md-4">
 {% include figure.liquid
 path="assets/img/media-management-08.png"
 title="Event media materials"
