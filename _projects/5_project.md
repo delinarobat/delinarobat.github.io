@@ -135,7 +135,7 @@ When we noticed recurring criticism from students, we developed a questionnaire 
 The result became a dedicated critical section within the special issue, turning event coverage into a platform for reflection and discussion.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/event photographs.jpg" title="Chamroosh at the Faculty of Engineering" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
