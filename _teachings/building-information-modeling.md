@@ -13,7 +13,6 @@ time: Live mentorship sessions, schedule announced on university platform
 course_id: building-information-modeling
 ---
 
-<img src="/assets/img/ta-post.png" alt="TA experience" style="width: 10%; height: auto;">
 <div style="text-align: center;">
   <img src="/assets/img/ta-post.png" alt="TA experience" style="width: 10%; height: auto;">
 </div>
