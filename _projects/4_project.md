@@ -12,7 +12,7 @@ category: research
 **Computer Graphics Research Lab, Department of Civil Engineering, University of Tehran**  
 **Under the supervision of Dr. Navid Khademi · Summer 2024**
 
-During my internship at the Computer Graphics Research Lab in Civil Engineering at the University of Tehran, I explored the use of **Virtual Reality (VR)** and interactive 3D environments for human-based experiments. The lab focused on developing virtual environments in Unity that could be used to simulate controlled conditions and study users' responses and behavior. :contentReference[oaicite:0]{index=0}
+During my internship at the Computer Graphics Research Lab in Civil Engineering at the University of Tehran, I explored the use of **Virtual Reality (VR)** and interactive 3D environments for human-based experiments. The lab focused on developing virtual environments in Unity that could be used to simulate controlled conditions and study users' responses and behavior. 
 
 My work combined **spatial design, computer graphics, and programming**, with a focus on learning Unity and C# and applying them to interactive environments.
 
