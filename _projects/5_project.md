@@ -151,7 +151,7 @@ The second issue expanded the publication's scope toward engineering heritage, c
 
 One of its main stories explored the **hydraulic systems of Shushtar**, looking at how historical water infrastructure combined engineering knowledge with environmental adaptation, local resources, and cultural heritage.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Shushtar hydraulic system.png" title="Shushtar hydraulic system" class="img-fluid rounded z-depth-1" %}
     </div>
