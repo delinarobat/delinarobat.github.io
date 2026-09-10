@@ -16,7 +16,7 @@ During my internship at the Computer Graphics Research Lab in Civil Engineering 
 
 My work combined **spatial design, computer graphics, and programming**, with a focus on learning Unity and C# and applying them to interactive environments.
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lab.png" title="Computer Graphics Research Lab at the University of Tehran" class="img-fluid rounded z-depth-1" %}
 </div>
@@ -50,7 +50,7 @@ A major part of my work involved **3D environment design in Unity**. I learned h
 
 One of the challenges was adapting available digital assets to local environments. Since many ready-made assets were designed for generic or Western contexts, creating environments that reflected Iranian architectural and cultural characteristics required additional customization and adaptation. :contentReference[oaicite:3]{index=3}
 
-<div class="row">
+<div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/keshavarz blv.png" title="Keshavarz Boulevard environment in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
