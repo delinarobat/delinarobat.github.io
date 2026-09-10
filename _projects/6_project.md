@@ -7,8 +7,6 @@ importance: 1
 category: leadership
 ---
 
-## Civil Engineering Scientific Student Association
-
 **University of Tehran · Civil Engineering Scientific Student Association**  
 **Board Member · September 2024 – January 2026**
 
