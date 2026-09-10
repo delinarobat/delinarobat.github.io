@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: Courses, teaching experience, and academic mentorship.
 nav: true
 nav_order: 6
 calendar: true
