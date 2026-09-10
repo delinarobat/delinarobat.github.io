@@ -55,7 +55,7 @@ One course in which I was directly involved was an **Unreal Engine course**, whi
 My involvement in these programs included working across the organizational process and coordinating with the team responsible for delivering the course to students.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/unreal poster.jpg" title="Unreal Engine course organized by the association" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
