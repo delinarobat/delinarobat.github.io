@@ -169,7 +169,7 @@ I worked with Hamidreza Pejman to explore and organize his ideas and experiences
 path="assets/img/curating-pejman.jpg"
 title="Curating meeting with Hamidreza Pejman"
 class="img-fluid rounded z-depth-1"
-width="33%"
+width="20%"
 %}
 
 ### Pirouz Hanachi
@@ -192,7 +192,7 @@ The event was the final result of months of collaboration between the media, cur
 
 </div>
 
-<div class="col-md-4">
+<div class="col-md-6">
 
 {% include figure.liquid
 path="assets/img/event-day.jpg"
