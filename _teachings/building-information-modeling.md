@@ -6,7 +6,7 @@ instructor: Dr. S. Vahid Faghihi
 ta: Delina Sheikhrobat, Fatemeh Farani
 institution: University of Tehran
 department: School of Civil Engineering, College of Engineering
-year: 2024
+year: 2026
 term: Spring
 location: Online (virtual sessions)
 time: Live mentorship sessions, schedule announced on university platform
