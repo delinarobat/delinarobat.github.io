@@ -167,7 +167,7 @@ One of its main stories explored the **hydraulic systems of Shushtar**, looking 
 The issue also looked at contemporary construction practices through a discussion of the **top-down construction method**, connecting academic knowledge with industry experience.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/top down.png" title="Top-down construction method" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
