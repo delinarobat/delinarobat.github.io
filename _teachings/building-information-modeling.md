@@ -14,7 +14,7 @@ course_id: building-information-modeling
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/img/ta-post.png" alt="TA experience" style="width: 10%; height: auto;">
+  <img src="/assets/img/ta-post.png" alt="TA experience" style="width: 50%; height: auto;">
 </div>
 
 ## The Role
