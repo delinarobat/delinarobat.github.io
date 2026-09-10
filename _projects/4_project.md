@@ -21,7 +21,7 @@ My work combined **spatial design, computer graphics, and programming**, with a 
         {% include figure.liquid loading="eager" path="assets/img/lab.png" title="Computer Graphics Research Lab at the University of Tehran" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Klana design in unity.png" title="3D environment design in Unity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Klana design in unity .png" title="3D environment design in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -37,10 +37,10 @@ As part of this process, I developed small interactive projects to apply program
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/battle ship.png" title="Battleship project developed in Unity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/battle ship .png" title="Battleship project developed in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/battle ship code.png" title="C# code for the Battleship project" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/battle ship code .png" title="C# code for the Battleship project" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -59,7 +59,7 @@ One of the challenges was adapting available digital assets to local environment
         {% include figure.liquid path="assets/img/keshavarz blv.png" title="Keshavarz Boulevard environment in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Klana design in unity.png" title="Environment design in Unity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Klana design in unity .png" title="Environment design in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -75,7 +75,7 @@ The project required attention to the dimensions and details of buildings, stree
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/university unity.png" title="University of Tehran campus recreated in Unity" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/university unity .png" title="University of Tehran campus recreated in Unity" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
