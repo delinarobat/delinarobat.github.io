@@ -21,10 +21,6 @@ My work combined **spatial design, computer graphics, and programming**, with a 
         {% include figure.liquid loading="eager" path="assets/img/mypov.jpg" title="Computer Graphics Research Lab at the University of Tehran" class="img-fluid rounded z-depth-1" %}
 </div>
 
-<div class="caption">
-    Working with Unity to develop interactive three-dimensional environments.
-</div>
-
 ## Learning Unity & C#
 
 I began by developing a foundation in **Unity and C#**, learning how to create and manage 3D scenes, work with assets, lighting, cameras, textures, and physical interactions. I also used components such as **Rigidbody** and **Collider** to create more natural interactions between objects. :contentReference[oaicite:1]{index=1}
