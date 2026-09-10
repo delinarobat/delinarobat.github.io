@@ -92,7 +92,7 @@ One of its historical stories explored **Taq Kasra**, using the project as a len
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Tag Kasra.jpg" title="Taq Kasra feature" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Taq Kasra.jpg" title="Taq Kasra feature" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
