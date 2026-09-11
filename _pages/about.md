@@ -25,4 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Interested in urbanism — civil engineering, design, people, and stories. I am a Civil Engineering graduate from the University of Tehran, interested in designing better and more sustainable cities and built environments. I explore how digital tools and creative approaches can help us shape better city life. I enjoy using storytelling to reshape ideas, connect perspectives, and create new ways of seeing the world.
+Interested in urbanism — civil engineering, design, people, and stories.
+I am a Civil Engineering graduate from the University of Tehran, interested in designing better and more sustainable cities and built environments. I explore how digital tools and creative approaches can help us shape better city life. I enjoy using storytelling to reshape ideas, connect perspectives, and create new ways of seeing the world.
