@@ -122,7 +122,7 @@ Our discussions emphasized how climate, local culture, and the needs of local co
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mr noori.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mr noori.png" title="Alireza Noori" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -157,7 +157,7 @@ This connection resulted not only in a TEDx talk that I found particularly meani
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mr ataei.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mr ataei.png" title="Mohammadreza Ataei" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -177,7 +177,7 @@ I believed that his perspective could contribute to a particularly meaningful co
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mr ferasatkhah.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mr ferasatkhah.png" title="Maghsoud Farasatkhah" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -193,7 +193,7 @@ What stayed with me most was his way of looking at the world with **curiosity, w
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mr alidoosti.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mr alidoosti.png" title="Hamid Alidoosti" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -210,7 +210,7 @@ I also gained a better understanding of the challenges involved in managing an e
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mrs eskandarfar.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mrs eskandarfar.png" title="Negar Eskandarfar" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -227,7 +227,7 @@ This perspective was particularly relevant to my own experience of working withi
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mr jamshidi.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mr jamshidi.png" title="Mohammad Jamshidi" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -241,7 +241,7 @@ These conversations gave me another perspective on identity and the different wa
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mrs zahedi.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/mrs zahedi.png" title="Diba Zahedi" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
