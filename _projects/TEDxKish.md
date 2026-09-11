@@ -30,9 +30,6 @@ Because the event was held on **Kish Island while I was based in Tehran**, coord
 </div>
 
 ## Socials
-
-For more information about the event and its activities:
-
 - [TEDxKish — Official Event Page](https://www.ted.com/tedx/events/62243)
 - [TEDxKish — Telegram](https://t.me/kishtedx)
 - [TEDxKish — Instagram](https://www.instagram.com/tedx.kish/)
