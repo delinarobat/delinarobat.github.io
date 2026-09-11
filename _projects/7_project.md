@@ -120,6 +120,13 @@ He also gave me a better understanding of the challenges involved in the constru
 
 Our discussions emphasized how climate, local culture, and the needs of local communities can influence decisions in construction and development.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr noori.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 ## Mohammad Khavarian
 
 **Architect**
@@ -150,6 +157,12 @@ This connection resulted not only in a TEDx talk that I found particularly meani
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr ataei.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mr alidoosti.png" title="TEDxKish speaker" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -168,6 +181,12 @@ Our conversations gave me a broader understanding of **Iran's social circumstanc
 
 I believed that his perspective could contribute to a particularly meaningful conversation for the event and for the wider context of our society.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr ferasatkhah.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ## Hamid Alidoosti
 
 **Coach & Former Football Player**
@@ -177,6 +196,13 @@ Mr. Alidoosti was one of the most memorable people I met during the organization
 Our conversations went far beyond football. He spoke about **art, music, cinema, and football** with a perspective that I had not encountered before.
 
 What stayed with me most was his way of looking at the world with **curiosity, warmth, and love**. The way he described different subjects gave me a new perspective on how different areas of life can be connected.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr alidoosti.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ## Negar Eskandarfar
 
@@ -188,6 +214,13 @@ Through our conversations, I learned about the **power of imagination** and how 
 
 I also gained a better understanding of the challenges involved in managing an educational and cultural center and how she approached those challenges.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mrs eskandarfar.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 ## Mohammad Jamshidi
 
 **Basketball Player & Artist**
@@ -198,6 +231,12 @@ Through our conversations, I learned more about his perspective on **teamwork** 
 
 This perspective was particularly relevant to my own experience of working within a large organizing team.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr jamshidi.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ## Diba Zahedi
 
 **Actress**
@@ -205,6 +244,13 @@ This perspective was particularly relevant to my own experience of working withi
 Through my conversations with Ms. Zahedi, we discussed how one person can be perceived through **different identities and perspectives**, and how individuals can come to better understand themselves.
 
 These conversations gave me another perspective on identity and the different ways people understand and present themselves.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mrs zahedi.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ## Our Host
 
