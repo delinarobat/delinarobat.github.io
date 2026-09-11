@@ -148,7 +148,7 @@ Our discussions emphasized how climate, local culture, and the needs of local co
     </div>
 </div>
 
-[Watch the TEDx talk →](https://youtu.be/6ZJ7ont7uEQ?si=Ru2rqhR2eGMQ1uLh)
+[Watch the TEDx talk ](https://youtu.be/6ZJ7ont7uEQ?si=Ru2rqhR2eGMQ1uLh)
 
 ## Mohammad Khavarian
 
@@ -166,7 +166,7 @@ I particularly appreciated his perspective on how **material selection can contr
     </div>
 </div>
 
-[Watch the TEDx talk →](https://www.youtube.com/watch?si=1Apl9yF6HbW3SIUN&v=YE8wXcTAWZg&feature=youtu.be)
+[Watch the TEDx talk ](https://www.youtube.com/watch?si=1Apl9yF6HbW3SIUN&v=YE8wXcTAWZg&feature=youtu.be)
 
 ## Mohammadreza Ataei
 
@@ -186,7 +186,7 @@ This connection resulted not only in a TEDx talk that I found particularly meani
     </div>
 </div>
 
-[Watch the TEDx talk →](https://youtu.be/s9nx0CjRhGI?si=TmwBtdlS44d_VNe4)
+[Watch the TEDx talk ](https://youtu.be/s9nx0CjRhGI?si=TmwBtdlS44d_VNe4)
 
 ## Maghsoud Farasatkhah
 
@@ -208,7 +208,7 @@ I believed that his perspective could contribute to a particularly meaningful co
     </div>
 </div>
 
-[Watch the TEDx talk →](https://youtu.be/o6cBL6yhPLo?si=ojVoBlPv98ONqLh7)
+[Watch the TEDx talk ](https://youtu.be/o6cBL6yhPLo?si=ojVoBlPv98ONqLh7)
 
 ## Hamid Alidoosti
 
@@ -226,7 +226,7 @@ What stayed with me most was his way of looking at the world with **curiosity, w
     </div>
 </div>
 
-[Watch the TEDx talk →](https://youtu.be/UcIcowacXZI?si=6vnTCGXp_ImqYENA)
+[Watch the TEDx talk ](https://youtu.be/UcIcowacXZI?si=6vnTCGXp_ImqYENA)
 
 ## Negar Eskandarfar
 
@@ -244,7 +244,7 @@ I also gained a better understanding of the challenges involved in managing an e
     </div>
 </div>
 
-[Watch the TEDx talk →](https://youtu.be/090u_eyRMUQ?si=f2EKfoIt1SJWjVwD)
+[Watch the TEDx talk ](https://youtu.be/090u_eyRMUQ?si=f2EKfoIt1SJWjVwD)
 
 ## Mohammad Jamshidi
 
@@ -262,7 +262,7 @@ This perspective was particularly relevant to my own experience of working withi
     </div>
 </div>
 
-[Watch the TEDx talk →](https://youtu.be/FXxpARjdN2I?si=EWiAfXr60Wgrln0n)
+[Watch the TEDx talk ](https://youtu.be/FXxpARjdN2I?si=EWiAfXr60Wgrln0n)
 
 ## Diba Zahedi
 
@@ -278,7 +278,7 @@ These conversations gave me another perspective on identity and the different wa
     </div>
 </div>
 
-[Watch the TEDx talk →](https://youtu.be/u82xYypL0uc?si=AOE_BSfXWRBNv_A9)
+[Watch the TEDx talk ](https://youtu.be/u82xYypL0uc?si=AOE_BSfXWRBNv_A9)
 
 ## Our Host
 
