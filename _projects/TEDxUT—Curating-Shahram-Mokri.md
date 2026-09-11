@@ -3,7 +3,7 @@ layout: page
 title: TEDxUT — Curating Shahram Mokri
 description: Developing a filmmaker's ideas into a TED-style talk
 img: assets/img/event-day-mokri.jpg
-importance: 3
+importance: 6
 category: work
 related_publications: false
 ---
