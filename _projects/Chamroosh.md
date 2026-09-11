@@ -3,7 +3,7 @@ layout: page
 title: Chamroosh
 description: Founding and leading a student publication at the University of Tehran
 img: /assets/img/chamroosh-cover.png
-importance: 1
+importance: 4
 category: academic
 ---
 
