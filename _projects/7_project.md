@@ -1,81 +1,270 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: TEDxKish Co-organizer & Curator
+description: Co-organizing and curating TEDxKish, from speaker selection and licensing to event-day coordination and risk management
+img: assets/img/me-cover.png
 importance: 1
-category: work
-related_publications: true
+category: leadership
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## TEDxKish Co-organizer & Curator
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**TEDxKish · Kish Island, Iran**  
+**Co-organizer & Curator · December 2024 – October 2025**  
+**Event: 10 October 2025**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I served as a **co-organizer and curator of TEDxKish**, working alongside the main organizer, Hossein, and a broader team to develop the event from its initial planning stages through to the event day.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The experience involved a long process of **planning, licensing, speaker curation, team formation, media coordination, venue preparation, sponsor and speaker communication, and risk management**.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Because the event was held on **Kish Island while I was based in Tehran**, coordinating the project remotely and preparing for different possible situations became one of the major challenges of the experience.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/me-cover.png" title="TEDxKish" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    TEDxKish — an event bringing together perspectives from entrepreneurship, architecture, art, sport, culture, and society.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## From the First Plan to the Event Day
 
-{% raw %}
+The organization of TEDxKish developed over almost a year, with regular meetings and planning sessions.
 
-```html
+### Planning & Licensing
+
+**21 December 2024**  
+We began by writing the initial plan for the event.
+
+**24 December 2024**  
+We developed ideas for the event and discussed the staff and team members we had in mind.
+
+**4 January 2025**  
+We prepared the information required for the licensing process and discussed the project with Mehdi, who was responsible for marketing and media.
+
+**6 January 2025**  
+We completed and submitted the licensing forms.
+
+**30 January 2025**  
+We received the TEDxKish license.
+
+## Developing the Event
+
+**28 February 2025**  
+We held a meeting at MicaMall in Kish to examine the stage and venue. We also discussed potential connections with speakers and sponsors.
+
+**7 April 2025**  
+We prepared the required files, developed ideas for potential speakers, identified our preferred speakers and alternative options, and began building the media team.
+
+**5 May 2025**  
+We continued checking and following up with potential speakers.
+
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/staff.png" title="TEDxKish organizing team" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
 
-{% endraw %}
+<div class="caption">
+    The team working behind TEDxKish.
+</div>
+
+## Risk Management
+
+As the event approached, the situation became increasingly challenging because of the war and the uncertainty surrounding travel, communication, and event organization.
+
+**3 July 2025**  
+We held an online meeting specifically focused on how to handle the situation during wartime and how to approach risk management.
+
+We discussed possible scenarios and developed ways to respond to them, preparing alternative plans for different situations that could affect the event.
+
+This became an important part of the organizing process and taught me that event management is not only about creating an ideal plan, but also about **anticipating uncertainty and preparing for situations that may change the plan completely**.
+
+## Preparing for the Event Day
+
+**9 October 2025**  
+We completed the final event-day preparations, including checking the gift packages, stage, and other required arrangements.
+
+**10 October 2025**  
+TEDxKish took place.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-9 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/audience.png" title="TEDxKish audience" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    TEDxKish on the event day.
+</div>
+
+## Curating the Speakers
+
+As a curator, one of the most meaningful parts of the experience was **finding people with different perspectives and understanding what each person could contribute to the overall narrative of the event**.
+
+The speakers came from very different fields, including entrepreneurship, architecture, sociology, sport, cinema, visual art, and acting.
+
+Rather than looking for people from one specific discipline, we tried to bring together perspectives that could create a broader conversation about people, cities, culture, creativity, and society.
+
+## Alireza Noori
+
+**Entrepreneur & Private Developer**
+
+Mr. Noori was one of the early private developers in Kish and had developed a mall, hotels, and other projects on the island.
+
+Through our conversations, I learned how to look for **opportunities in places that may initially appear to have limited potential**.
+
+He also gave me a better understanding of the challenges involved in the construction industry, particularly **budget management, time management, and the importance of understanding a place before developing it**.
+
+Our discussions emphasized how climate, local culture, and the needs of local communities can influence decisions in construction and development.
+
+## Mohammad Khavarian
+
+**Architect**
+
+Mr. Khavarian, who received the **Aga Khan Award for Architecture in 2025**, introduced me to the idea of looking at urban environments not only as physical spaces, but also as **social opportunities**.
+
+Through our conversations, I learned more about the architectural design process and the importance of making thoughtful decisions about materials.
+
+I particularly appreciated his perspective on how **material selection can contribute to more sustainable architectural solutions**.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr khavarian.png" title="Mohammad Khavarian" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+## Mohammadreza Ataei
+
+**Visual Artist**
+
+Mohammadreza Ataei was a young visual artist and architect whose work I discovered through social media.
+
+What initially caught my attention was his focus on his hometown and the way he collected **people's social dreams and ideas about their city and transformed them into visual illustrations**, using digital tools and AI.
+
+After contacting him and having several conversations, I learned how these visualizations can go beyond being artistic representations. By making people's ideas visible and sharing them, they can help **create public demand and encourage movements toward more sustainable adaptations and designs**, involving both communities and municipalities.
+
+This connection resulted not only in a TEDx talk that I found particularly meaningful, but also in a friendship and professional connection that continued beyond the event.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr alidoosti.png" title="TEDxKish speaker" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+## Maghsoud Farasatkhah
+
+**Professor of Planning & Sociologist**
+
+Mr. Farasatkhah is a well-known sociologist and scholar in Iran.
+
+We initially contacted him by email, explained the idea behind the event, and received a response from him. We later met in person during the curation process.
+
+Through these conversations, I came to appreciate not only his knowledge as a sociologist, but also his way of thinking and his awareness of social issues.
+
+Our conversations gave me a broader understanding of **Iran's social circumstances**, and he recommended a number of topics and books for me to explore further.
+
+I believed that his perspective could contribute to a particularly meaningful conversation for the event and for the wider context of our society.
+
+## Hamid Alidoosti
+
+**Coach & Former Football Player**
+
+Mr. Alidoosti was one of the most memorable people I met during the organization of the event.
+
+Our conversations went far beyond football. He spoke about **art, music, cinema, and football** with a perspective that I had not encountered before.
+
+What stayed with me most was his way of looking at the world with **curiosity, warmth, and love**. The way he described different subjects gave me a new perspective on how different areas of life can be connected.
+
+## Negar Eskandarfar
+
+**Film Producer & Founder of an Educational Center for Art and Culture**
+
+Mrs. Eskandarfar was a powerful and thoughtful person whom I had the opportunity to meet and speak with during the curation process.
+
+Through our conversations, I learned about the **power of imagination** and how it can influence creative work.
+
+I also gained a better understanding of the challenges involved in managing an educational and cultural center and how she approached those challenges.
+
+## Mohammad Jamshidi
+
+**Basketball Player & Artist**
+
+Mr. Jamshidi is a well-known basketball player who also works as an artist.
+
+Through our conversations, I learned more about his perspective on **teamwork** and why he believes that people need to learn more about how to work effectively as a team.
+
+This perspective was particularly relevant to my own experience of working within a large organizing team.
+
+## Diba Zahedi
+
+**Actress**
+
+Through my conversations with Ms. Zahedi, we discussed how one person can be perceived through **different identities and perspectives**, and how individuals can come to better understand themselves.
+
+These conversations gave me another perspective on identity and the different ways people understand and present themselves.
+
+## Our Host
+
+**Alireza Nikoo · Pharm.D., Scientific Researcher, Medical & Sports Medicine Researcher, and Medical & MMA Content Creator**
+
+Alireza Nikoo hosted TEDxKish and played an important role in making the event day run smoothly.
+
+His energetic and intelligent approach helped us handle situations on stage effectively. During the event itself, his ability to respond to changing circumstances made the experience considerably easier for the organizing team.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mr nikoo.png" title="Alireza Nikoo, TEDxKish host" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+## A Multidisciplinary Team
+
+One of the most interesting aspects of TEDxKish was the diversity of the people involved.
+
+The speakers came from fields that I would not normally encounter together in a civil engineering environment — from **architecture and urbanism to sociology, cinema, visual art, entrepreneurship, and professional sport**.
+
+This experience made me more comfortable with looking beyond my own discipline and finding connections between different ways of thinking.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/works.png" title="TEDxKish speakers and event materials" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+## What I Learned
+
+The TEDxKish experience was much more than organizing an event.
+
+It taught me how to work on a project over a long period of time, communicate with people from very different backgrounds, make decisions under uncertainty, and coordinate a team while dealing with practical limitations.
+
+The biggest challenge was the geographical distance between **Tehran and Kish**, which required much of the preparation and communication to happen remotely.
+
+At the same time, the distance encouraged us to think more carefully about logistics, contingency plans, communication, and risk management.
+
+Most importantly, the curation process taught me how much can be learned from conversations with people outside one's own field. Each speaker introduced me to a different way of understanding **cities, construction, society, creativity, identity, teamwork, and human experience**.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/audience.png" title="TEDxKish event day" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    TEDxKish — 10 October 2025.
+</div>
+
+## Project Timeline
+
+**December 2024** — Initial planning and development of the event concept  
+**January 2025** — Licensing process and team development  
+**February 2025** — Venue visit and early speaker and sponsor discussions  
+**April–May 2025** — Speaker curation, documentation, and media team formation  
+**July 2025** — Risk management and contingency planning  
+**October 2025** — Final preparations and event execution
+
+### Role
+
+`Co-organizer` · `Curator` · `Speaker Curation` · `Event Planning` · `Risk Management` · `Team Coordination` · `Event Management`
