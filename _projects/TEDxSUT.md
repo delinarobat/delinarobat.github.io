@@ -3,7 +3,7 @@ layout: page
 title: TEDxSUT
 description: capturing moments as an official photographer
 img: assets/img/tedxsut_cover.jpg
-importance: 3
+importance: 7
 category: work
 related_publications: false
 ---
