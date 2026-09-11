@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Civil Engineering graduate from the University of Tehran, with an interest in designing better and more sustainable cities and built environments. At the intersection of engineering, design, and technology, I explore how digital tools and innovative approaches can help us better understand and shape the places we live in, creating environments that are more efficient, sustainable, and human-centered.
+Interested in urbanism — civil engineering, design, people, and stories. I am a Civil Engineering graduate from the University of Tehran, interested in designing better and more sustainable cities and built environments. I explore how digital tools and creative approaches can help us shape better city life. I enjoy using storytelling to reshape ideas, connect perspectives, and create new ways of seeing the world.
