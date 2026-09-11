@@ -29,6 +29,14 @@ Because the event was held on **Kish Island while I was based in Tehran**, coord
     TEDxKish — an event bringing together perspectives from entrepreneurship, architecture, art, sport, culture, and society.
 </div>
 
+## Socials
+
+For more information about the event and its activities:
+
+- [TEDxKish — Official Event Page](https://www.ted.com/tedx/events/62243)
+- [TEDxKish — Telegram](https://t.me/kishtedx)
+- [TEDxKish — Instagram](https://www.instagram.com/tedx.kish/)
+  
 ## From the First Plan to the Event Day
 
 The organization of TEDxKish developed over almost a year, with regular meetings and planning sessions.
