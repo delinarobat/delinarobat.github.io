@@ -161,12 +161,6 @@ This connection resulted not only in a TEDx talk that I found particularly meani
     </div>
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/mr alidoosti.png" title="TEDxKish speaker" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 ## Maghsoud Farasatkhah
 
 **Professor of Planning & Sociologist**
