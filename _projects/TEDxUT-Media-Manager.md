@@ -3,7 +3,7 @@ layout: page
 title: TEDxUT
 description: Media Manager & Curating Team Member
 img: assets/img/tedxut-cover.jpg
-importance: 2
+importance: 5
 category: work
 related_publications: false
 ---
