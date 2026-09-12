@@ -8,7 +8,7 @@ categories: Nonfiction, Psychology, Philosophy, Self-Help, Personal Development,
 tags: thinking cognitive-biases decision-making psychology critical-thinking reasoning self-improvement
 buy_link: [https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592](https://www.hodder.co.uk/titles/rolf-dobelli/the-art-of-thinking-clearly/9781444759563/?utm_source=chatgpt.com)
 started: 2026-09-10
-finished: -
+finished: --
 released: 2011
 stars: -
 goodreads_review: 3.85/5 from about 43,000 ratings and 4,000 reviews.
