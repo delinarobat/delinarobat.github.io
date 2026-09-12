@@ -6,7 +6,7 @@ author: Rolf Dobelli
 cover: "assets/img/The art of Thinking clearly.jpg"
 isbn: "9781444759549"
 
-categories: Nonfiction, Psychology, Philosophy, Self-Help, Personal Development, Business
+categories: nonfiction psychology philosophy self-help personal-development business
 tags: thinking cognitive-biases decision-making psychology critical-thinking reasoning self-improvement
 
 buy_link: "https://www.hodder.co.uk/titles/rolf-dobelli/the-art-of-thinking-clearly/9781444759563/"
