@@ -3,8 +3,8 @@ layout: page
 title: TEDxSUT
 description: capturing moments as an official photographer
 img: assets/img/tedxsut_cover.jpg
-importance: 7
-category: work
+importance: 4
+category: TEDx
 related_publications: false
 ---
 In 2023 , I had the incredible opportunity to join the TEDxSUT team at Sharif University of Technology as an official event photographer. I was invited to capture the moments that made the event come alive — from the energy backstage to the connections happening in the audience.
