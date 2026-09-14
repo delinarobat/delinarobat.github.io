@@ -4,7 +4,7 @@ title: Civil Engineering Scientific Student Association
 description: Board member and organizer of academic, industry, and student initiatives at the University of Tehran
 img: assets/img/me in visit.jpg
 importance: 1
-category: leadership
+category: Academic
 ---
 
 **University of Tehran · Civil Engineering Scientific Student Association**  
