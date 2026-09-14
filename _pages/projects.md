@@ -9,10 +9,10 @@ horizontal: false
 ---
 <!-- pages/projects.md -->
 <div class="projects">
-  <h2 class="category">sorted by date</h2>
+  <h2 class="category">my projects</h2>
 
-  {% assign sorted_projects = site.projects | sort: "date" | reverse %}
-
+  {% assign sorted_projects = site.projects | sort: "importance" %}
+  
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
