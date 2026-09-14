@@ -7,25 +7,25 @@ nav: true
 nav_order: 3
 horizontal: false
 ---
-<!-- pages/projects.md -->
-<div class="projects">
-  <h2 class="category">my projects</h2>
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
+<div class="projects">
+
+  <h2 class="category">Academic</h2>
+
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
+    {% assign academic_projects = site.projects | where: "category", "Academic" | sort: "importance" %}
+    {% for project in academic_projects %}
       {% include projects.liquid %}
     {% endfor %}
   </div>
-  {% endif %}
+
+  <h2 class="category">TEDx</h2>
+
+  <div class="row row-cols-1 row-cols-md-3">
+    {% assign tedx_projects = site.projects | where: "category", "TEDx" | sort: "importance" %}
+    {% for project in tedx_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+
 </div>
