@@ -3,8 +3,8 @@ layout: page
 title: TEDxKish Co-organizer & Curator
 description: Co-organizing and curating TEDxKish, from speaker selection and licensing to event-day coordination and risk management
 img: assets/img/me-cover.png
-importance: 3
-category: leadership
+importance: 1
+category: TEDx
 ---
 
 ## TEDxKish Co-organizer & Curator
