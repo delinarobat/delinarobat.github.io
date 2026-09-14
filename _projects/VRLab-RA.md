@@ -4,7 +4,7 @@ title: VR Lab Research Assistant
 description: Virtual reality, Unity, and spatial environment design under the supervision of Dr. Navid Khademi
 img: assets/img/lab.png
 importance: 2
-category: research
+category: Academic
 ---
 
 ## VR Lab Research Assistant
