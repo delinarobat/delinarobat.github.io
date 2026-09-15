@@ -77,6 +77,23 @@
       "summary": "Sheikhrobat, D., Faghihi, S. V."
     }
   ],
+ "certificates": [
+  {
+    "name": "Introduction to Machine Learning",
+    "issuer": "Kaggle",
+    "url": "https://www.kaggle.com/learn/certification/delinarobat/intro-to-machine-learning"
+  },
+  {
+    "name": "Feature Engineering",
+    "issuer": "Kaggle",
+    "url": "https://www.kaggle.com/learn/certification/delinarobat/feature-engineering"
+  },
+  {
+    "name": "Introduction to the Internet of Things and Embedded Systems",
+    "issuer": "Coursera",
+    "url": "https://coursera.org/share/826e076be7734d86298665a385640484"
+  }
+],
   "skills": [
     {
       "name": "BIM & Design",
@@ -119,20 +136,6 @@
         "Artificial Intelligence in construction",
         "Digital technologies and technology-driven innovation"
       ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Introduction to Machine Learning",
-      "issuer": "Kaggle"
-    },
-    {
-      "name": "Feature Engineering",
-      "issuer": "Kaggle"
-    },
-    {
-      "name": "Introduction to the Internet of Things and Embedded Systems",
-      "issuer": "Coursera"
     }
   ],
   "projects": [
