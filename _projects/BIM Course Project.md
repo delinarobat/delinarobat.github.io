@@ -85,7 +85,7 @@ Finally, we did a **quantity take-off** directly from the Revit model, extractin
 
 ## What I Learned
 
-[WRITE HERE 2-3 sentences in your own words: what it was like to connect a model with a schedule, what surprised you about 4D simulation, or how this changed the way you think about planning a construction project.]
+This project showed me how much a BIM model can do beyond drawing a building. Linking the model to a schedule made the construction sequence easy to see, and taking quantities straight from the model showed how design, planning, and cost estimation can all work from one source of information.
 
 ### Role
 
