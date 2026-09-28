@@ -28,20 +28,14 @@ latest_posts:
 Interested in urbanism — civil engineering, design, people, and stories.
 I am a Civil Engineering graduate from the University of Tehran, interested in designing better and more sustainable cities and built environments. I explore how digital tools and creative approaches can help us shape better city life. I enjoy using storytelling to reshape ideas, connect perspectives, and create new ways of seeing the world.
 
-<div class="news">
-  <h2>news</h2>
-  {% include news.liquid limit=true %}
-</div>
-
 <div class="research-journey">
   <h2>my research journey</h2>
   <p>
     I have been wondering how, with the advancement of technology, we can design buildings in the most sustainable way.
-    My first step was:
+    My first step was :
   </p>
   <p>
-    <b>Evolution of BIM–LEED Integration: A Systematic Literature Review of Their Relationship, Applications, and Technology-Driven Changes Across LEED Versions</b><br>
-    Delina Sheikhrobatsavari and S. Vahid Faghihi, 2026<br>
+    <b>Evolution of BIM–LEED Integration: A Systematic Literature Review of Their Relationship, Applications, and Technology-Driven Changes Across LEED Versions - Delina Sheikhrobatsavari and S. Vahid Faghihi, 2026<br>
     <i>Manuscript under review</i>
   </p>
   <p>
@@ -53,4 +47,9 @@ I am a Civil Engineering graduate from the University of Tehran, interested in d
   <p>
     Along the way, I keep up with the technologies used in this industry and take related courses.
   </p>
+</div>
+
+<div class="news">
+  <h2>news</h2>
+  {% include news.liquid limit=true %}
 </div>
