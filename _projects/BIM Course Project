@@ -2,7 +2,7 @@
 layout: page
 title: BIM Course Project
 description: A full BIM workflow on a 4-storey residential building, from structural description and task planning to Revit modeling, 4D simulation in Navisworks, and quantity take-off
-img: assets/img/BIM.jpg
+img: /assets/img/BIM.jpg
 importance: 1
 category: Academic
 ---
