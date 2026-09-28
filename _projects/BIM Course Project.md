@@ -81,7 +81,7 @@ We built the construction schedule in **Microsoft Project** and attached it to t
 
 ### 5. Quantity Take-off
 
-Finally, we did a **quantity take-off** from the model, extracting [WRITE HERE what you took off: e.g. materials, structural elements, concrete volume] directly from the Revit model.
+Finally, we did a **quantity take-off** directly from the Revit model, extracting the quantities of the main building elements. Because the quantities came from the model itself, they updated with any design change instead of being counted by hand from drawings.
 
 ## What I Learned
 
