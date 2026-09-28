@@ -15,9 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # disabled here because news is included manually below
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the _news folder
 
 latest_posts:
   enabled: false
@@ -27,8 +27,3 @@ latest_posts:
 
 Interested in urbanism — civil engineering, design, people, and stories.
 I am a Civil Engineering graduate from the University of Tehran, interested in designing better and more sustainable cities and built environments. I explore how digital tools and creative approaches can help us shape better city life. I enjoy using storytelling to reshape ideas, connect perspectives, and create new ways of seeing the world.
-
-<div class="news">
-  <h2>news</h2>
-  {% include news.liquid limit=true %}
-</div>
