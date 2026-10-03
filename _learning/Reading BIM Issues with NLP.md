@@ -89,10 +89,6 @@ To check whether the model just learned the style of my synthetic data, I wrote 
 * Labels like "who resolves this" are partly organizational, not purely textual, so real projects need shared definitions (for example, of issue priority and responsibility).
 * Overall accuracy can hide failure on the class that matters most.
 
-## Limitations and Next Steps
-
-The data is synthetic, small, and single-label, and the stress-test labels are subjective. Next steps would be real anonymized issue data, multi-label classification (many clashes involve two disciplines), sentence embeddings, and shared severity guidelines for annotation.
-
-### Role
+### Skills
 
 `NLP` · `Python` · `scikit-learn` · `BIM` · `Text Classification` · `Design Coordination`
