@@ -207,7 +207,7 @@ collections:
     output: true
   projects:
     output: true
-   learning:
+  learning:
     output: true
   teachings:
     output: true
