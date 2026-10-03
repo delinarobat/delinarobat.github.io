@@ -2,7 +2,7 @@
 layout: page
 title: Learning
 permalink: /learning/
-nav: false
+nav: true
 nav_order: 4
 ---
 
