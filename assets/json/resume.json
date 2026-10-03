@@ -3,10 +3,13 @@
     "name": "Delina Sheikhrobat",
     "label": "Civil Engineering Graduate — BIM, Sustainability & Automation",
     "email": "delinarobat@gmail.com",
-    "summary": "I am a Civil Engineering graduate from the University of Tehran, interested in the integration of Building Information Modeling (BIM), sustainability, automation, and emerging technologies in construction management.": {
+    "summary": "Civil Engineering graduate from the University of Tehran with experience in Building Information Modeling (BIM), construction-related digital workflows, and research on BIM and sustainable building practices. My work combines BIM tools such as Revit, Navisworks, and Dynamo with emerging technologies including artificial intelligence and digital technologies. I am particularly interested in construction management, automation in construction, BIM-enabled sustainability, and the development of technology-driven approaches to improve the built environment.",
+    "location": {
       "city": "Tehran",
       "countryCode": "IR"
-    },
+    }
+  }
+}
     "profiles": [
       {
         "network": "LinkedIn",
