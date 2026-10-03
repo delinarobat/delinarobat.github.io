@@ -13,7 +13,7 @@ category: Learning
 **October 2026**  
 **Tools: Python · scikit-learn · Jupyter**
 
-An exploratory prototype inspired by a future-work idea in recent cloud-BIM research.
+An exploratory prototype built to learn how far simple NLP can go on BIM issue text.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -27,9 +27,9 @@ An exploratory prototype inspired by a future-work idea in recent cloud-BIM rese
 
 ## Why I Started
 
-While reading recent research on cloud-based BIM collaboration (Bhonde, Zadeh and Staub-French, *Buildings*, 2026), one idea stood out: tools like Revizto accumulate thousands of text records (issue descriptions, comments, statuses), and that text could be analyzed automatically. I wanted to learn how far a very simple NLP approach could go on this kind of data.
+Cloud-based BIM collaboration tools like Revizto accumulate thousands of text records: issue descriptions, comments, and statuses. I wondered whether that text could be analyzed automatically, for example to sort issues by the discipline responsible and by how serious they are. I wanted to learn how far a very simple NLP approach could go on this kind of data.
 
-This is a learning exercise, not a replication of that work, and it is not validated on real project data.
+This is a learning exercise and it is not validated on real project data.
 
 ## The Data Problem
 
@@ -86,7 +86,7 @@ To check whether the model just learned the style of my synthetic data, I wrote 
 ## What I Learned
 
 * High accuracy on synthetic data says little; testing on a different style says more.
-* Labels like "who resolves this" are partly organizational, not purely textual, which connects to the paper's point about needing shared definitions (for example, of issue priority).
+* Labels like "who resolves this" are partly organizational, not purely textual, so real projects need shared definitions (for example, of issue priority and responsibility).
 * Overall accuracy can hide failure on the class that matters most.
 
 ## Limitations and Next Steps
