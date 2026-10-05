@@ -3,7 +3,7 @@ layout: page
 title: Introduction to IoT and Embedded Systems
 description: Notes from a UC Irvine course on how Internet of Things devices are built, from embedded hardware and software to the networks that connect them
 img: /assets/img/iot-cover.png
-importance: 5
+importance: 3
 category: Learning
 ---
 
