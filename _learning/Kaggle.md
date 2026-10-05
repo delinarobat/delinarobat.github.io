@@ -76,7 +76,7 @@ How to improve a model by improving its inputs: mutual information to find usefu
 
 ## Limitations
 
-These are guided courses with clean, prepared datasets. They taught me the workflow, but a certificate shows I completed the material, not that I can handle messy real-world data. I started applying these ideas in my [BIM Issue Text Classification](/learning/bim-issue-classification/) project.
+These are guided courses with clean, prepared datasets. They taught me the workflow, but a certificate shows I completed the material, not that I can handle messy real-world data. I started applying these ideas in my [BIM Issue Text Classification](https://delinarobat.github.io/learning/Reading%20BIM%20Issues%20with%20NLP/) project.
 
 ### Skills
 
